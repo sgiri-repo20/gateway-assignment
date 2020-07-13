@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gateway-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gateway-test/static/js/main.25c86d71.chunk.js",
+    "main.js.map": "/gateway-test/static/js/main.25c86d71.chunk.js.map",
+    "runtime-main.js": "/gateway-test/static/js/runtime-main.2ea14209.js",
+    "runtime-main.js.map": "/gateway-test/static/js/runtime-main.2ea14209.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/gateway-test/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2a56341f.chunk.js": "/gateway-test/static/js/2.2a56341f.chunk.js",
+    "static/js/2.2a56341f.chunk.js.map": "/gateway-test/static/js/2.2a56341f.chunk.js.map",
+    "index.html": "/gateway-test/index.html",
+    "precache-manifest.6a40b7ec8014c75d120a1087be09b26a.js": "/gateway-test/precache-manifest.6a40b7ec8014c75d120a1087be09b26a.js",
+    "service-worker.js": "/gateway-test/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/gateway-test/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/gateway-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2a56341f.chunk.js.LICENSE.txt": "/gateway-test/static/js/2.2a56341f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gateway-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ea14209.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2a56341f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.25c86d71.chunk.js"
+  ]
+}
